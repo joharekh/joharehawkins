@@ -155,7 +155,7 @@ header {
 	font-weight: 700;
 	margin-right: 2em;
 	color: #e90f05;
-	/* ggg */
+	background-image: url('/_site/img/Joharé.png');
 
 }
 .home-link:link:not(:hover) {
