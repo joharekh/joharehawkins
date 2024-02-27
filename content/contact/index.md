@@ -7,7 +7,7 @@ eleventyNavigation:
       <div class="container form">  
         <div class="panel-group">  
           <div class="panel panel-default">  
-            <div class="panel-heading">Please enter your details</div><br>
+            <div class="panel">Please enter your details</div><br>
             <div class="panel-body">  
               <form class ="was-validated" netlify>
                   <div class="form-group">
