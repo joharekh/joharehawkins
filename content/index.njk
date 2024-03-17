@@ -5,14 +5,15 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 1
 ---
-<h2>My name is Joharé (joe-har-aye)</h2>
-<p>I have over ten years experience in Development, from Front end to Back end. Explore my site to view my various projects.</p>
+<h2>My name is Joharé (joe-har-ay)</h2>
+<p>I have over ten years experience in Development, from Front end to Back end.</p>
+<p> Explore my site to view my various projects.</p>
 <button class="btn btn-default btn-lg"><a href="contact/">Get in Touch</a></button>
 `
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 
-<h2 style="padding-top:40%;">Latest {% if latestPostsCount != 1 %}s{% endif %}</h2>
+<h2>Latest blog posts {% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
