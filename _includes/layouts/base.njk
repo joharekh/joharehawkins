@@ -56,9 +56,17 @@
 			</nav>
 		</header>
 
-		<main id="skip">
-			
-			{{ content | safe }}
+		<main id="skip">	
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-sm-6">
+						{{ content | safe }}
+					</div>
+					<div class="col-sm-6">
+						<img src="../img/portrait.svg">
+					</div>
+				</div>
+			</div>	
 		</main>
 
 		<footer></footer>
