@@ -3,9 +3,9 @@ layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
-numberOfLatestPostsToShow: 0
+numberOfLatestPostsToShow: 1
 ---
-<!--`
+`
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
@@ -26,5 +26,5 @@ numberOfLatestPostsToShow: 0
 	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
 	{%- endfor %}
 </ul>
-#}`-->
+#}`
 
