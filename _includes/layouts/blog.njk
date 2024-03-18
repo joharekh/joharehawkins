@@ -3,7 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
+
+		{#- Favicon #}
+		<link rel="icon" type="image/png" href="/img/favicon.png" sizes="82X82" />
+
+
 		{#- Bootstrap #}
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -48,7 +52,7 @@
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
-					<li class="nav-item"><a href="/" class="home-link">Joharé</a></li>
+					<li class="nav-item"><a href="/" class="home-link"><span class="nameOpp">joe</span>-har-<span class="nameOpp">ay</span></a></li>
 				{%- for entry in collections.all | eleventyNavigation %}
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
 				{%- endfor %}
@@ -59,8 +63,11 @@
 		<main id="skip">	
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-sm-6 col-md-offset-3">
+					<div class="col-sm-6">
 						{{ content | safe }}
+					</div>
+					<div class="col-sm-6">
+						<img class="col-sm-offset-2" src="/img/portrait.svg" width="80%">
 					</div>
 				</div>
 			</div>	
