@@ -14,8 +14,8 @@
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #3858C1;
-	--text-color-link-active: #e90f05;
-	--text-color-link-visited: #5f2b48;
+	--text-color-link-active: #BF105E;
+	--text-color-link-visited: #290790;
 
 	--syntax-tab-size: 2;
 }
@@ -78,13 +78,16 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	font-weight: bold;
 }
 a[href]:visited {
 	color: var(--text-color-link-visited);
+	font-weight: bold;
 }
 a[href]:hover,
 a[href]:active {
 	color: var(--text-color-link-active);
+	font-weight: bold;
 }
 
 main {
@@ -164,11 +167,12 @@ header {
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	align-items: flex-end
+	align-items: flex-end;
 }
 .nav-item {
 	display: inline-block;
 	margin-right: 1em;
+	font-weight: bold;
 }
 .nav-item a[href]:not(:hover) {
 	text-decoration: none;
@@ -271,6 +275,14 @@ h2, h2 + .header-anchor {
 }
 
 h1 {
-	font-size: 2em;
-	padding-top:10%;
+	font-size: 4em;
+	padding-top:5%;
+	font-weight: bold;
+}
+
+.name {
+	color: #290790;
+}
+.home-link .nameOpp {
+	color: #000;
 }

@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-  <p>I have over ten years experience in Development, from Front end to Back end. Explore my site to view my various projects.</p>
+  <p>Welcome! With over a decade of experience spanning Front end to Back end development, I bring a wealth of expertise to every project. Explore my site to see my diverse portfolio of projects, showcasing my skills in HTML, CSS and JavaScript. Let's collaborate and bring your ideas to life!</p>
 
   <!-- Skills -->
   <div class="container-fluid text-center">
