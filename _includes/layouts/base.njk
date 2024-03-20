@@ -46,35 +46,51 @@
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header>
 			{#<a href="/" class="home-link">{{ metadata.title }}</a> #}
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-					<li class="nav-item"><a href="/" class="home-link"><span class="nameOpp">joe</span>-har-<span class="nameOpp">ay</span></a></li>
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
-		</header>
-
-		<main id="skip">	
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-sm-6">
-						{{ content | safe }}
-					</div>
-					<div class="col-sm-6">
-						<img class="col-sm-offset-2" src="../img/portrait.svg" width="80%">
-					</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-12">
+					<nav class="navbar">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+								<span class="icon-bar navbar-inverse"></span>
+								<span class="icon-bar navbar-inverse"></span>
+								<span class="icon-bar navbar-inverse"></span>                        
+							</button>
+							<a class="navbar-brand home-link" href="/"><span class="nameOpp">joe</span>-har-<span class="nameOpp">ay</span></a>
+						</div>
+						<div class="collapse navbar-collapse" id="myNavbar">
+							<h2 class="visually-hidden">Top level navigation menu</h2>
+							<ul class="nav navbar-nav text-center">
+								<li><a href="/" class="">Home</a></li>
+								{%- for entry in collections.all | eleventyNavigation %}
+									{% if entry.url != "/" %} {# Exclude the home page #}
+										<li><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+									{% endif %}
+								{%- endfor %}
+							</ul>
+						</div>
+					</nav>
 				</div>
-			</div>	
-		</main>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-12">
+					<main id="skip">    
+						<div class="row">
+							<div class="col-xs-12 col-sm-6 col-md-6">
+								{{ content | safe }}
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-6">
+								<img src="../img/portrait.svg" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">
+							</div>
+						</div>
+					</main>
+				</div>
+			</div>
+		</div>
 
 		<footer></footer>
-
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
 </html>
