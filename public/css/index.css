@@ -271,7 +271,7 @@ a[href].header-anchor:focus,
 
 h2, h2 + .header-anchor {
 	font-size: 1.8em;
-	padding-top:10%;
+	padding-top:5%;
 }
 
 h1 {
@@ -280,9 +280,13 @@ h1 {
 	font-weight: bold;
 }
 
-.name {
+.blue {
 	color: #290790;
 }
 .home-link .nameOpp {
 	color: #000;
+}
+
+.pink {
+	color: #e90f05;
 }
