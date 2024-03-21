@@ -156,7 +156,7 @@ header {
 	font-weight: 700;
 	margin-right: 2em;
 	color: #e90f05;
-}
+ }
 .home-link:link:not(:hover) {
 	text-decoration: none;
 }
@@ -283,7 +283,7 @@ h1 {
 .blue {
 	color: #290790;
 }
-.home-link .nameOpp {
+.nameOpp {
 	color: #000;
 }
 
