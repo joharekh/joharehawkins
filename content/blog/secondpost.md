@@ -1,5 +1,5 @@
 ---
-title: Various programs including, sentence output, name combiner, and a 'what to wear' generator.
+title: Various programs including, sentence output, name combiner, and a 'what to wear' generator
 description: This is a post on displaying several programs written in HTML, CSS and JavaScript.
 date: 2024-03-17
 tags:
