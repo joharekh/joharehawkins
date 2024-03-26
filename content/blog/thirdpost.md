@@ -1,6 +1,6 @@
 ---
-title: Pseudocode
-description: This is a post displaying Pseudocode and Javascript.
+title: Comments and pseudocode
+description: This is a post displaying pseudocode and Javascript comments.
 date: 2024-03-25
 tags:
   - pseudocode
