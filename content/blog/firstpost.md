@@ -28,8 +28,9 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 ``` -->
 <br>
 <br>
-Please press the HTML button to see HTML, the JS button to see JavaScript and Result to see the final output and test the programs.
-
+<p>Please press the <span class="pink">HTML</span> button to see <span class="pink">HTML</span>, the <span class="pink">JS</span> button to see <span class="pink">JavaScript</span> and <span class="pink">Result</span> to see the final output and test the programs.</p>
+<br>
+<br>
 <p class="codepen" data-height="400" data-default-tab="js" data-slug-hash="abxoZwY" data-user="joharelofthouse" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/joharelofthouse/pen/abxoZwY">
   Calculate Tip</a> by Joharé (<a href="https://codepen.io/joharelofthouse">@joharelofthouse</a>)
