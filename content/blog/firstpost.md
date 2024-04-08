@@ -1,5 +1,5 @@
 ---
-title: Tip Calculator.
+title: Tip Calculator
 description: This is a post displaying my tip calculator using HTML, CSS and JavaScript.
 date: 2024-03-06
 tags:
