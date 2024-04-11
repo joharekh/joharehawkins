@@ -4,14 +4,14 @@ eleventyNavigation:
   key: Contact Me
   order: 3
 ---
-# Contact <span class="blue">Me</span>
+# Contact <span class="blue blueOpp">Me</span>
 
 <div class="container form col-sm-12">
 <br />
 <div class="panel-group">
 	<div class="panel panel-default">
 	<div class="panel">
-		<h3 style="padding-left: 11px; padding-top: 10px;">Please <span class="blue">enter your</span> details</h3>
+		<h3 style="padding-left: 11px; padding-top: 10px;">Please <span class="blue blueOpp">enter your</span> details</h3>
 	</div>
 	<div class="panel-body">
 		<form class="was-validated" netlify="">

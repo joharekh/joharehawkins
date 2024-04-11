@@ -13,7 +13,7 @@ tags:
 <p>Linked below are several CodePens demonstrating the various stages of building a manipulating an object. The final link is also embedded below:</p>
 <br>
 <br>
-<p>Please press the <span class="pink">JS</span> button to see <span class="pink">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/WNWovwP">"see the pen"</a> to see output in the Codepen console.
+<p>Please press the <span class="pink pinkOpp">JS</span> button to see <span class="pink pinkOpp">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/WNWovwP">"see the pen"</a> to see output in the Codepen console.
 <br>
 <br>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="js" data-slug-hash="WNWovwP" data-user="joharelofthouse" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
