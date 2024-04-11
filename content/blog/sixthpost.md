@@ -1,6 +1,6 @@
 ---
-title: Dom Manipulation
-description: This is a post displaying codepens building a ToDo list I created using HTML, CSS ansJavaScript.
+title: To Do List (DOM Manipulation)
+description: This is a post displaying codepens building a ToDo list I created using HTML, CSS and JavaScript.
 date: 2024-04-05
 tags:
   - html
@@ -36,7 +36,7 @@ https://codepen.io/joharelofthouse/pen/ExJwaWg</p>
 <br>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="js" data-slug-hash="ExJwaWg" data-user="joharelofthouse" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/joharelofthouse/pen/ExJwaWg">
-  DOM Task 6</a> by Joharé (<a href="https://codepen.io/joharelofthouse">@joharelofthouse</a>)
+  To Do List/a> by Joharé (<a href="https://codepen.io/joharelofthouse">@joharelofthouse</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

@@ -1,14 +1,16 @@
 ---
-title: Object Manipulation
-description: This is a post displaying codepens with various functions outputting content to the console that I created using JavaScript.
+title: Shopping Cart (Object Manipulation)
+description: This is a post displaying codepens with various functions outputting content to the console that I created using HTML, CSS and JS.
 date: 2024-04-08
 tags:
   - js
+  - html
+  - css
 
 ---
 <br>
 <br>
-<p>Linked below are several CodePens demonstrating the various stages of building a to do list. The final link is also embedded below:</p>
+<p>Linked below are several CodePens demonstrating the various stages of building a manipulating an object. The final link is also embedded below:</p>
 <br>
 <br>
 <p>Please press the <span class="pink">JS</span> button to see <span class="pink">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/WNWovwP">"see the pen"</a> to see output in the Codepen console.
