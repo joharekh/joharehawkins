@@ -1,5 +1,5 @@
 ---
-title: Loops, Arrays, and Objects 1
+title: Loops, Arrays, and Objects
 description: This is a post displaying loops, arrays and objects I created using JavaScript.
 date: 2024-03-26
 tags:
