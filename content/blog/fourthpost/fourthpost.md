@@ -2,9 +2,10 @@
 title: Image Filter
 description: This is a post demonstrating my development of an Image Filter using HTML, CSS and JS.
 date: 2024-04-11
-tags: - html
-- css
-- js
+tags: 
+  - js
+  - html
+  - css
 ---
 <br>
 <br>
