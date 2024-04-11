@@ -4,13 +4,13 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
-# About <span class="blue">Me</span>
+# About <span class="blue blueOpp">Me</span>
 
   <p>Welcome! With over a decade of experience spanning Front end to Back end development, I bring a wealth of expertise to every project. Explore my site to see my diverse portfolio of projects, showcasing my skills in HTML, CSS and JavaScript. Let's collaborate and bring your ideas to life!</p>
 
   <!-- Skills -->
   <div class="container-fluid text-center">
-    <h2><span class="pink">Skills</span></h2>
+    <h2><span class="pink pinkOpp">Skills</span></h2>
     <br />
     <div class="row">
       <div class="col-sm-4">
