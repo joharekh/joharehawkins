@@ -10,9 +10,6 @@ tags:
 ---
 <br>
 <br>
-<p>Linked below are several CodePens demonstrating the various stages of building a manipulating an object. The final link is also embedded below:</p>
-<br>
-<br>
 <p>Please press the <span class="pink pinkOpp">JS</span> button to see <span class="pink pinkOpp">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/mdgKqxK">"see the pen"</a> to see output in the Codepen console.
 <br>
 <br>
