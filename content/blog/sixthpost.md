@@ -25,7 +25,7 @@ https://codepen.io/joharelofthouse/pen/MWRvBPR</p>
 https://codepen.io/joharelofthouse/pen/BaEdPeV</p>
 
 <p>Task 5<br>
-https://codepen.io/joharelofthouse/pen/BaEdPeV</p>
+https://codepen.io/joharelofthouse/pen/QWPMVYb</p>
 
 <p>Task 6<br>
 https://codepen.io/joharelofthouse/pen/ExJwaWg</p>
