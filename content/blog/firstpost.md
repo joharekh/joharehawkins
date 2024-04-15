@@ -9,7 +9,7 @@ tags:
 ---
 <br>
 <br>
-<p>Please press the <span class="pink pinkOpp">JS</span> button to see <span class="pink pinkOpp">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/abxoZwY">"see the pen"</a> to see output in the Codepen console.
+<p>Please press the <span class="pink">JS</span> button to see <span class="pink">JavaScript</span>. Please also click to <a href="https://codepen.io/joharelofthouse/pen/abxoZwY">"see the pen"</a> to see output in the Codepen console.
 <br>
 <br>
 <p class="codepen" data-height="400" data-default-tab="js" data-slug-hash="abxoZwY" data-user="joharelofthouse" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
