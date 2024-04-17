@@ -1,8 +1,8 @@
 module.exports = {
-	title: "Joharé",
+	title: "Joharé - Software Engineer",
 	url: "https://joharehawkinslofthouse.com/",
 	language: "en",
-	description: "I am writing about my experiences in this web dev course delivered by The Coder's Guild.",
+	description: "With over a decade of expertise in Front to Back-end development, I'm your go-to software engineer. Explore my diverse portfolio to see the projects showcasing my skills and passion for innovation.",
 	author: {
 		name: "Joharé",
 		email: "johareh@gmail.com",
