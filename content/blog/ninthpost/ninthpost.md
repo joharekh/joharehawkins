@@ -10,6 +10,6 @@ tags:
 <br>
 <br>
 <p>
-<img src="/img/carl-homepage-1.png">
-<img src="/img/possum.png" alt="A possum parent and two possum kids hanging from the iconic red balloon">
+<img src="/img/carl-homepage-1.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">>
+<img src="/img/possum.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">>
 </p>
