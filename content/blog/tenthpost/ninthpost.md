@@ -1,6 +1,6 @@
 ---
-title: Carl
-description: This is a post demonstrating my development of an Image Filter using HTML, CSS and JS.
+title: Carrena R. Morgan - Artist Portfolio
+description: This is a post demonstrating my development of a website for Wilmington Delaware artist, Carrena R. Morgan.
 date: 2025-03-31
 tags: 
   - js
@@ -15,5 +15,5 @@ tags:
 <br>✓ Illustrator
 <br>✓ Photoshop
 <br>✓ Content design
-<br><img src="/img/carrena.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">
+<br><img src="/img/carrena.png" class="img-responsive center-block" alt="Carrena Homepage" style="width: 80%;">
 </p>
