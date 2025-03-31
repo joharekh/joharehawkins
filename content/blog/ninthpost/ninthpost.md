@@ -9,6 +9,6 @@ tags:
 ---
 <br>
 <br>
-<p><img src=".img/possum.png">
-<img src=".img/carl-homepage-1.png">
+<p><img src="./img/possum.png">
+<img src="./img/carl-homepage-1.png">
 </p>
