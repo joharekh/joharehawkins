@@ -9,7 +9,11 @@ tags:
 ---
 <br>
 <br>
-<p>
-<img src="/img/carl-homepage-1.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">>
-<img src="/img/possum.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">>
+<p>Website created for Carl Jones, Yorkshire based therapist.</p>
+<p>Project involved:
+<br>✓ using Bootstrap
+<br>✓ working with JavaScript
+<br>✓ sourcing images
+<br>✓ writing copy
+<br><img src="/img/carl-homepage-1.png" class="img-responsive center-block" alt="Portrait Image" style="width: 80%;">>
 </p>
