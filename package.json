@@ -14,11 +14,7 @@
 		"type": "git",
 		"url": "git://github.com/11ty/eleventy-base-blog.git"
 	},
-	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
-	},
+	"author": "Zach Leatherman <zachleatherman@gmail.com> (https://zachleat.com/)",
 	"license": "MIT",
 	"engines": {
 		"node": ">=14"
@@ -38,10 +34,22 @@
 		"@11ty/eleventy-plugin-bundle": "^1.0.4",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+		"grunt": "^1.6.1",
+		"grunt-contrib-jshint": "^3.2.0",
+		"grunt-jslint": "^1.1.15",
+		"http-cache-semantics": "^4.1.1",
+		"ip": "^2.0.1",
+		"jasmine": "^5.4.0",
 		"luxon": "^3.3.0",
-		"markdown-it-anchor": "^8.6.7"
+		"markdown-it-anchor": "^8.6.7",
+		"puppeteer": "^23.8.0",
+		"puppeteer-core": "^23.8.0",
+		"tar": "^7.4.3",
+		"ws": "^8.18.0"
 	},
 	"dependencies": {
 		"bootstrap": "^5.3.2"
-	}
+	},
+	"main": "eleventy.config.drafts.js",
+	"keywords": []
 }
