@@ -1,6 +1,6 @@
 ---
-title: Carl
-description: This is a post demonstrating my development of an Image Filter using HTML, CSS and JS.
+title: Terese L Hawkins - Artist Portfolio
+description: This is a post demonstrating my development of a website for Wilmington Delaware artist, Terese L. Hawkins.
 date: 2025-03-31
 tags: 
   - js
