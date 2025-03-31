@@ -15,5 +15,5 @@ tags:
 <br>✓ Illustrator
 <br>✓ Photoshop
 <br>✓ Content design
-<br><img src="/img/carrena.png" class="img-responsive center-block" alt="Carrena Homepage" style="width: 80%;">
+<br><img src="/img/carrena.png" class="img-responsive" alt="Carrena Homepage" style="width: 80%;">
 </p>

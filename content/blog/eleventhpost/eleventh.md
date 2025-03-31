@@ -15,7 +15,7 @@ tags:
 <br>✓ Illustrator
 <br>✓ Photoshop
 <br>✓ Content design
-<br><img src="/img/terese-homepage-3-1536x816.png" class="img-responsive center-block" alt="Terese Homepage" style="width: 80%;">
+<br><img src="/img/terese-homepage-3-1536x816.png" class="img-responsive" alt="Terese Homepage" style="width: 80%;">
 </p>
 
 

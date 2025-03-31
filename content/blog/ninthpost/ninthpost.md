@@ -15,5 +15,5 @@ tags:
 <br>✓ working with JavaScript
 <br>✓ sourcing images
 <br>✓ writing copy
-<br><img src="/img/carl-homepage-1.png" class="img-responsive center-block" alt="Carl Homepage" style="width: 80%;">
+<br><img src="/img/carl-homepage-1.png" class="img-responsive" alt="Carl Homepage" style="width: 80%;">
 </p>
