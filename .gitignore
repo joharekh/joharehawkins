@@ -1,3 +1,14 @@
 _site/
 node_modules/
 package-lock.json
+.grunt/grunt-contrib-jasmine/boot0.js
+.grunt/grunt-contrib-jasmine/boot1.js
+.grunt/grunt-contrib-jasmine/jasmine-html.js
+.grunt/grunt-contrib-jasmine/jasmine.css
+.grunt/grunt-contrib-jasmine/jasmine.js
+.grunt/grunt-contrib-jasmine/jasmine_favicon.png
+.grunt/grunt-contrib-jasmine/reporter.js
+_SpecRunner.html
+Gruntfile.js
+spec/support/jasmine.json
+src/calculator.js
