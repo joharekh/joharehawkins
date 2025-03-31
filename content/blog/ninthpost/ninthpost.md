@@ -9,6 +9,7 @@ tags:
 ---
 <br>
 <br>
-<p><img src=".img/possum.png">
-<img src=".img/carl-homepage-1.png">
+<p><img src="./possum.png">
+<img src="../img/carl-homepage-1.png">
+<img src="../img/possum.png" alt="A possum parent and two possum kids hanging from the iconic red balloon">
 </p>
